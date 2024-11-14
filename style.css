@@ -128,3 +128,35 @@ button {
 .text {
     text-align: center;
 }
+
+
+
+
+
+
+
+
+
+.third {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    flex: auto;
+    color: #1F2937;
+    padding: 100px;
+    
+}
+
+.quote {
+    font-style: oblique;
+    font-size: 36px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.author {
+    font-weight: 900;
+    align-self: flex-end;
+    padding: 0px;
+    margin: 0px;
+}
