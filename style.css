@@ -160,3 +160,35 @@ button {
     padding: 0px;
     margin: 0px;
 }
+
+
+
+
+
+
+.fourth {
+    flex: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px auto;
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 25px 100px ;
+    color: #F9FAF8;
+    gap: 75px;
+}
+
+.bottom {
+    border: 1px solid white;
+}
+
+.call-bottom {
+    font-weight: 900;
+    margin: 0px;
+}
+
+.info-bottom {
+    font-size: 13px;
+    margin: 0px;
+}
